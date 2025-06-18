@@ -1,9 +1,23 @@
-### Olá! Eu sou o Pedro Henrique 🚀
+### Olá! Sou o Pedro Henrique 🚀
+
+- 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
+- 🌱🎮 Estudando Unity
+
+</br>
+
+## Minhas redes
+
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-ol)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedruouh/)
 
-![Pedroo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr0uh&show_icons=true&theme=dark)
+</br>
+
+<div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedr0uh&show_icons=true&theme=dark"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0uh&layout=compact&theme=dark"/>
+
+</div>
 
 ## Tecnologias que conheço
 
@@ -17,3 +31,10 @@
 
 </br>
 </div>
+
+### Sempre buscando aprender, se desenvolver, e evoluir.
+
+</br>
+
+### Quem Sabe um dia ter um estúdio de games... 💙🎮
+
