@@ -6,7 +6,6 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 - 🌱🎮 Estudando Unity
 
 </br>
-
 ## Minhas redes
 
 
@@ -21,6 +20,8 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 
 </div>
 
+![Snake Animation](https://github.com/Pedr0uh)
+
 ## Tecnologias que conheço
 
 <div style="display: inline_block"><br>
@@ -30,6 +31,7 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
     <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </br>
 </div>
