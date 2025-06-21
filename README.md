@@ -20,7 +20,7 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 
 </div>
 
-![Snake Animation](https://github.com/Pedr0uh)
+![Snake Animation](https://github.com/Pedr0uh/Pedr0uh/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que conheço
 
