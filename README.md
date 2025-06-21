@@ -5,7 +5,7 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
 - 🌱🎮 Estudando Unity
 
-</br>
+
 ## Minhas redes
 
 
