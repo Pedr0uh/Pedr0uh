@@ -3,7 +3,7 @@
 Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro), música e alguns esportes :D 
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
 - 🌱🎮 Estudando Unity
-<img height="180" src="src/gif.gif" alt="gif animação" width="180"/>
+![gif]("src/gif.gif")
 
 ## Minhas redes
 
