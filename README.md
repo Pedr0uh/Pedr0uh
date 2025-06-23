@@ -5,7 +5,7 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
 - 🌱🎮 Estudando Unity
 <div>
-    <img height="180" src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif"/>
+    <img height="180" src="src/gif.gif" alt="gif animação" width="180"/>
 </div>
 
 
