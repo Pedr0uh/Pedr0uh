@@ -31,7 +31,7 @@
 
 ## 🚀 Tecnologias que conheço
 
-<table>
+<table align="center">
     <tr>
         <td>
             <div style="display: inline_block"><br>
