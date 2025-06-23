@@ -40,6 +40,7 @@
         <img width="50" align="center" alt="Spring" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/>
         <img width="50" align="center" alt="Unity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png"/>
         <img width="50" align="center" alt="Figma" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
+        <img width="50" align="center" alt="MongoDB" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
     </div>
     <br>
     <h3>✨ Sempre buscando aprender, se desenvolver e evoluir.</h3>
