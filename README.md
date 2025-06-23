@@ -4,6 +4,9 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
 - 🌱🎮 Estudando Unity
+<div>
+    <img height="180" src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif"/>
+</div>
 
 
 ## Minhas redes
@@ -17,7 +20,6 @@ Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro
 <div>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedr0uh&show_icons=true&theme=dark"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0uh&layout=compact&theme=dark"/>
-
 </div>
 
 <picture align="center">
