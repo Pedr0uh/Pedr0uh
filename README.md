@@ -1,13 +1,9 @@
 ### Olá! Sou o Pedro Henrique 🚀
 
-Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro), música e alguns esportes :D
+Jovem que ama tecnologia, sua rotina se resume em games (eletronicos e tabuleiro), música e alguns esportes :D <img height="180" src="src/gif.gif" alt="gif animação" width="180"/>
 
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio)
 - 🌱🎮 Estudando Unity
-<div>
-    <img height="180" src="src/gif.gif" alt="gif animação" width="180"/>
-</div>
-
 
 ## Minhas redes
 
