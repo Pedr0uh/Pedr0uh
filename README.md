@@ -7,14 +7,14 @@
 - 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio) <br><br>
 - 🌱🎮 Estudando Unity
 
----
+#
 
-## 🚀 Minhas redes
+<h3>🚀 Minhas redes</h3>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-ol)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedruouh/)
 
----
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedr0uh&show_icons=true&theme=dark"/>
@@ -27,30 +27,28 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedr0uh/Pedr0uh/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+#
 
-## 🚀 Tecnologias que conheço
+<img align="right" src="src/gif.gif" width="180">
 
-<table align="center">
-    <tr>
-        <td>
-            <div style="display: inline_block"><br>
-                <img width="40" align="center" alt="Kotlin" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/>
-                <img width="50" align="center" alt="Android Studio" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/>
-                <img width="50" align="center" alt="HTML" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
-                <img width="50" align="center" alt="CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
-                <img width="50" align="center" alt="Spring" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/>
-                <img width="50" align="center" alt="Unity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png"/>
-                <img width="50" align="center" alt="Figma" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
-            </div>
-        </td>
-        <td>
-            <img src="src/gif.gif" width="180">
-        </td>
-    </tr>
-</table>
+<h3>🚀 Tecnologias que conheço</h3>
 
----
+<div style="display: inline_block" align="left"><br>
+    <img width="40" align="center" alt="Kotlin" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/>
+    <img width="50" align="center" alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+    <img width="50" align="center" alt="HTML" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
+    <img width="50" align="center" alt="CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
+    <img width="50" align="center" alt="Android Studio" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/>
+    <img width="50" align="center" alt="Spring" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/>
+    <img width="50" align="center" alt="Unity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png"/>
+    <img width="50" align="center" alt="Figma" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
+</div>
+
+<br>
+<br>
+<br>
+
+#
 
 ### ✨ Sempre buscando aprender, se desenvolver e evoluir.
 ### 🎯 Quem sabe um dia ter um estúdio de games... 💙🎮
