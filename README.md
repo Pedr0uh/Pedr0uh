@@ -4,8 +4,8 @@
     Jovem que ama tecnologia, sua rotina se resume em games (eletrônicos e tabuleiro), música e alguns esportes :D 
 </p><br>
 
-- 📚📖 Estudando Ciências da Computação; <br>
-- 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio) <br><br>
+- 📚📖 Estudando Ciências da Computação; <br><br>
+- 🚀💙 Aprendendo e aprimorando Desenvolvimento Mobile (Com Android Studio); <br><br>
 - 🌱🎮 Estudando Unity
 
 #
